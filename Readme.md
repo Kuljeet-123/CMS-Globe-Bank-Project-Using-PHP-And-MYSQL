@@ -10,7 +10,7 @@ This allows me to keep track and edit Globe Bank prototype website.
   4. CSS using Twitter Bootstrap
 
 ## Tools and Technology used:
-  1. Html/CSS
+  1. HTML/CSS
   2. PHP
   3. MYSQL/MYSQLI
 
