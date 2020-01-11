@@ -4,10 +4,10 @@ This allows me to keep track and edit Globe Bank prototype website.
 
 
 ## Features:
-  1. Front Page Slideshow
+  1. Front Page Slideshow.
   2. Login / Logout for user.
-  3. Navigation Bar
-  4. CSS using Twitter Bootstrap
+  3. Navigation Bar.
+  4. CSS using Twitter Bootstrap.
 
 ## Tools and Technology used:
   1. HTML/CSS
